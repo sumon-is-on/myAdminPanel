@@ -3,7 +3,7 @@
         <div class="nano-content">
             <ul>
                 <div class="logo">
-                    <a href="{{ route('mstr') }}">
+                    <a href="#">
                         <!-- <img src="assets/images/logo.png" alt="" /> --><span>My Admin Panel</span>
                     </a>
                 </div>
@@ -12,7 +12,7 @@
                         <span class="sidebar-collapse-icon ti-angle-down"></span>
                     </a>
                     <ul>
-                        <li><a href="{{ route('mstr') }}">Dashboard </a></li>
+                        <li><a href="#">Dashboard </a></li>
                     </ul>
                 </li>
             </ul>
